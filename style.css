@@ -5,16 +5,20 @@
     
 }
 
-body.container,  .dropdown-menu {
+
+
+body.container{
     background: #494A4B;
     color: #B2B7B7;
     font-family: 'Roboto Flex', sans-serif;
 }
 
-.dropdown-menu{
-    text-align: center;
-    padding:0%;
-    margin:0%;
+
+
+a, a.nav-link {
+    color: white ;
+    font-family: 'Roboto Flex', sans-serif;
+
 }
 
 h1 {
@@ -45,16 +49,19 @@ h1 {
 
    
 }
+.nav-link{
+    font-size: larger;
+}
 
 
 
-.banniere, .bouton{
+.banniere, .bouton  {
   
 text-decoration: none;
 width: 100%;
 text-align: center;
 
-border: 2px solid #8BC1D5;
+border: 3px solid #8BC1D5;
 border-radius: 10px;
 color: white;
 font-size: 1.05rem; 
