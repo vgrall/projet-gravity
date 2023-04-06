@@ -45,12 +45,14 @@ h1 {
 
     font-family: 'Roboto Condensed', sans-serif;
     border-radius: 10px;
+    
+
 
 
    
 }
 .nav-link{
-    font-size: larger;
+    font-size: 0.8rem;
 }
 
 
@@ -132,6 +134,13 @@ h5:hover{
 }
 
 
+.container-fluid{
+    # how to center navbar in webpage ?
+    
+    justify-content: center;
+    /* margin: 0 5% 0 10%; */
+
+}
 
 
 
