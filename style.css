@@ -52,7 +52,7 @@ h1 {
    
 }
 .nav-link{
-    font-size: 0.8rem;
+    font-size: 1.2rem;
 }
 
 
@@ -135,10 +135,10 @@ h5:hover{
 
 
 .container-fluid{
-    # how to center navbar in webpage ?
+  
     
     justify-content: center;
-    /* margin: 0 5% 0 10%; */
+    margin: 0 5% 0 10%;
 
 }
 
